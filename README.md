@@ -4,9 +4,7 @@
 <h1>Stephanie A. Kelloway</h1>
 </head>
 <body>
-
-<h2>Assignment One</h2>
-<p>Personal Information.</p>
+<h2>Personal Information.</h2>
 
 <ul>
 <li>Name: Stephanie Alexis Kelloway</li>
