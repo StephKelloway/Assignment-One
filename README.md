@@ -18,7 +18,7 @@
 <p>I work for QGC, formerly an Australian company, that is now a wholly owned subsidiary of Shell Australia. I’ve been with QGC for nearly 12 years in various roles across several business units, including Corporate Receptionist, Team Administrator to the Engineering Team & Management Assistant to the Manager Access.</P>
 </body>
 
-<h3>What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).</h3>
+<h2>What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).</h2>
 <body>
 <p>My IT experience has been, for the most part, gained over the past 2 years through my current role at work. </p>
 <p>Currently I work as the Land Systems & Process Advisor, still within the Access Department. As part of this role, I work closely with IT, and through my work, it has become increasingly apparent to me that IT is where I’d like to head with my career in the long term.</p>
@@ -26,13 +26,13 @@
 <p>I’m also the Information Management Compliance focal point for my team, which includes the rollout of Shells Global Records Management process for my team.</p>
 </body>
 
-<h3>Why did you choose to come to RMIT?</h3>
+<h2>Why did you choose to come to RMIT?</h2>
 <body>
 <p>I decided to study through OUA & RMIT, because of the flexibility that online learning affords me, given I work fulltime and have other additional responsibilities.</p>
 <p>More specifically, I chose RMIT because of the reputation it has as a leader in Information Technology, I base this opinion on my own research, conducted prior to signing up with OUA and RMIT.</P>
 </body>
 
-<h3>What do you expect to learn during your studies?</h3>
+<h2>What do you expect to learn during your studies?</h2>
 <body>
 <p>Through my studies with RMIT, I hope to build on the skills and knowledge I’ve gained at work by learning about technical IT concepts in more detail.</p>
 <p>My interest in IT lies in the areas of communications and ethics, specifically related to social media, cloud computing & project management.</p>
