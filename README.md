@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h1>Stephanie A. Kelloway</h1>
+<h1>Assignment One - Stephanie A. Kelloway</h1>
 </head>
 <body>
-<h2>Personal Information.</h2>
+<h2>Personal Information</h2>
 
 <ul>
 <li>Name: Stephanie Alexis Kelloway</li>
