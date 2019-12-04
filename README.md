@@ -1,17 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<h1>Assignment One - Stephanie A. Kelloway</h1>
+<h1>Stephanie A. Kelloway</h1>
 </head>
 <body>
-<h2>Personal Information</h2>
-
 <ul>
 <li>Name: Stephanie Alexis Kelloway</li>
 <li>Student Number: S3824207</li>
 <li>Email address: s3824207@student.rmit.edu.au</li>
 </ul>
-
+  <h2>Profile</h2>
 <body> 
 <p>I live in the western suburbs of Brisbane with my husband of 18 months, and our gold sable East German working line German Shepherd named Aris. I have two siblings, a younger brother named Josh who I'm very close to, and an older sister.</p>
 <p>My dad was in the Air Force for 21 years, so we moved around when I was growing up, as a result, I’ve lived in South Australia, Victoria and for the last 26 years, Queensland.</p>
