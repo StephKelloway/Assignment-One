@@ -1,5 +1,4 @@
-<h1>Assignment 1</h1>
-<h2>Stephanie Alexis Kelloway</h2>
+<h1>Stephanie Alexis Kelloway</h1>
 
 <ul>
 <li>Student Number: S3824207</li>
