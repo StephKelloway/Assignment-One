@@ -1,6 +1,6 @@
   <h1>Assignment 1</h1>
     <h2>Stephanie Alexis Kelloway</h2>
-<!--MAIN CONTENT -->
+
 <ul>
 <li>Student Number: S3824207</li>
 <li>Email address: s3824207@student.rmit.edu.au</li>
@@ -33,5 +33,4 @@
 <p>Through my studies with RMIT, I hope to build on the skills and knowledge I’ve gained at work by learning about technical IT concepts in more detail.</p>
 <p>My interest in IT lies in the areas of communications and ethics, specifically related to social media, cloud computing & project management.</p>
 </body>
-</main content>
 
