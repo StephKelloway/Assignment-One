@@ -1,7 +1,4 @@
 <html>
-<head>
-<h1>Stephanie A. Kelloway</h1>
-</head>
 <body>
 <ul>
 <li>Name: Stephanie Alexis Kelloway</li>
