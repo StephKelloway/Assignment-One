@@ -1,7 +1,7 @@
 <html>
 <body>
+<h1> Stephanie Alexis Kelloway </h1>
 <ul>
-<li>Name: Stephanie Alexis Kelloway</li>
 <li>Student Number: S3824207</li>
 <li>Email address: s3824207@student.rmit.edu.au</li>
 </ul>
