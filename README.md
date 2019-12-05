@@ -1,6 +1,5 @@
-  <h1>Assignment 1</h1>
-    <h2>Stephanie Alexis Kelloway</h2>
-
+<h1>Assignment 1</h1>
+<h2>Stephanie Alexis Kelloway</h2>
 <ul>
 <li>Student Number: S3824207</li>
 <li>Email address: s3824207@student.rmit.edu.au</li>
