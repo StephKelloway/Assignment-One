@@ -1,14 +1,14 @@
 <!-- HEADER -->
   <h1 id="project title">Assignment 1</h1>
-    <h2 id="project_tagline">Stephanie Alexis Kelloway</h2 id="project_tagline">
+    <h2>Stephanie Alexis Kelloway</h2>
   </header>
   
-  <!--MAIN CONTENT -->
- <ul>
+<!--MAIN CONTENT -->
+<ul>
 <li>Student Number: S3824207</li>
 <li>Email address: s3824207@student.rmit.edu.au</li>
 </ul>
-  <h2>Background Information</h2>
+<h2>Background Information</h2>
 <body> 
 <p>I live in the western suburbs of Brisbane with my husband of 18 months, and our gold sable East German working line German Shepherd named Aris. I have two siblings, a younger brother named Josh who I'm very close to, and an older sister.</p>
 <p>My dad was in the Air Force for 21 years, so we moved around when I was growing up, as a result, I’ve lived in South Australia, Victoria and for the last 26 years, Queensland.</p>
