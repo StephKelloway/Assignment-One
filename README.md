@@ -1,7 +1,15 @@
+<!doctype html>
 <html>
-<body>
-  <h1> Stephanie Alexis Kelloway </h1>
-<ul>
+<!-- HEADER -->
+<div id= "header_wrap" class="outer">
+<header class="inner">
+  <a id="forkme_banner" href="https://stephkelloway.github.io/Assignment-One/">
+  <h1 id="project title">Assignment 1</h1>
+    <h2 id="project_tagline">Stephanie Alexis Kelloway</h2>
+  </header>
+  </div>
+  <!--MAIN CONTENT -->
+ <ul>
 <li>Student Number: S3824207</li>
 <li>Email address: s3824207@student.rmit.edu.au</li>
 </ul>
@@ -33,3 +41,5 @@
 <p>Through my studies with RMIT, I hope to build on the skills and knowledge I’ve gained at work by learning about technical IT concepts in more detail.</p>
 <p>My interest in IT lies in the areas of communications and ethics, specifically related to social media, cloud computing & project management.</p>
 </body>
+</!doctype html>
+</main content>
