@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <h1>Stephanie A. Kelloway</h1>
