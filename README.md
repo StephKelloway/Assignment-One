@@ -1,6 +1,6 @@
 <!-- HEADER -->
   <h1 id="project title">Assignment 1</h1>
-    <h2 id="project_tagline">Stephanie Alexis Kelloway</h2>
+    <h2 id="project_tagline">Stephanie Alexis Kelloway</h2 id="project_tagline">
   </header>
   
   <!--MAIN CONTENT -->
