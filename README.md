@@ -1,5 +1,4 @@
 <!-- HEADER -->
-  <a id="forkme_banner" href="https://stephkelloway.github.io/Assignment-One/">
   <h1 id="project title">Assignment 1</h1>
     <h2 id="project_tagline">Stephanie Alexis Kelloway</h2>
   </header>
