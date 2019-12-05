@@ -1,7 +1,5 @@
-<!-- HEADER -->
   <h1 id="project title">Assignment 1</h1>
     <h2>Stephanie Alexis Kelloway</h2>
-</header>
 <!--MAIN CONTENT -->
 <ul>
 <li>Student Number: S3824207</li>
