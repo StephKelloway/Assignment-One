@@ -1,4 +1,4 @@
-<!doctype html>
+
 <!-- HEADER -->
 <div id= "header_wrap" class="outer">
 <header class="inner">
@@ -41,4 +41,4 @@
 <p>My interest in IT lies in the areas of communications and ethics, specifically related to social media, cloud computing & project management.</p>
 </body>
 </main content>
-</doctype html>
+
