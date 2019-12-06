@@ -6,8 +6,7 @@
  <li>Student Number: S3824207</li>
  <li>Email address: s3824207@student.rmit.edu.au</li>
 </ul>
-</body>
-</html>
+
 
 <h2>Background Information</h2>
 <body> 
@@ -37,5 +36,5 @@
 <p>Through my studies with RMIT, I hope to build on the skills and knowledge I’ve gained at work by learning about technical IT concepts in more detail.</p>
 <p>My interest in IT lies in the areas of communications and ethics, specifically related to social media, cloud computing & project management.</p>
 </body>
-
+</html>
 
