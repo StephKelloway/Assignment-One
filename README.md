@@ -35,4 +35,3 @@
 <p>My interest in IT lies in the areas of communications and ethics, specifically related to social media, cloud computing & project management.</p>
 </body>
 </html>
-
