@@ -2,7 +2,6 @@
 <html>
 <h1>Stephanie Alexis Kelloway</h1>
 
-<h2>Unordered List without Bullets</h2>
 <ul style="list-style-type:none;">
  <li>Student Number: S3824207</li>
  <li>Email address: s3824207@student.rmit.edu.au</li>
