@@ -10,7 +10,7 @@
 <body> 
 <p>I live in the western suburbs of Brisbane with my husband of 18 months, and our gold sable East German working line German Shepherd named Aris. I have two siblings, a younger brother named Josh who I'm very close to, and an older sister.</p>
  
-<img src="https://user-images.githubusercontent.com/58213527/70367549-b7030b80-18ec-11ea-8297-32e69e961e61.jpg" alt="https://github.com/StephKelloway/images-in-readme" style="float:right;width:325;height:217">
+<p><img src="https://user-images.githubusercontent.com/58213527/70367549-b7030b80-18ec-11ea-8297-32e69e961e61.jpg" alt="https://github.com/StephKelloway/images-in-readme" style="float:right;width:325;height:217"></p>
 
 <p>My dad was in the Air Force for 21 years, so we moved around when I was growing up, as a result, I’ve lived in South Australia, Victoria and for the last 26 years, Queensland.</p>
 <p>Something I find interesting about myself, and that surprises a lot of people is the fact that I have Narcolepsy. Narcolepsy is a sleep disorder that is characterised by excessive daytime sleepiness. Due to a deficiency in my brain of a neurotransmitters called orexins, my bodys ability to regulate my sleep patterns and my ability to stay awake is significantly diminished. Narcolepsy is thought to be an autoimmune disorder that affects roughly 12,000 people in Australia, making it rare.</p>
