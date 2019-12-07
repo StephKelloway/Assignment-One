@@ -6,11 +6,12 @@
  <li>Email address: s3824207@student.rmit.edu.au</li>
 </ul>
 
+<img src="https://user-images.githubusercontent.com/58213527/70367549-b7030b80-18ec-11ea-8297-32e69e961e61.jpg" alt="https://github.com/StephKelloway/images-in-readme" style="width:162.5;height:108.5">
+
 <h2>Background Information</h2>
 <body> 
 <p>I live in the western suburbs of Brisbane with my husband of 18 months, and our gold sable East German working line German Shepherd named Aris. I have two siblings, a younger brother named Josh who I'm very close to, and an older sister.</p>
- 
-<img src="https://user-images.githubusercontent.com/58213527/70367549-b7030b80-18ec-11ea-8297-32e69e961e61.jpg" alt="https://github.com/StephKelloway/images-in-readme" style="width:162.5;height:108.5">
+</body>
 
 <p>My dad was in the Air Force for 21 years, so we moved around when I was growing up. As a result, my sister was born in Malaysia, I was born in South Australia, my brother was born in Victoria, and for the last 26 years, we've lived in Queensland.</p>
 <p>Something I find interesting about myself, and that surprises a lot of people is the fact that I have Narcolepsy. Narcolepsy is a sleep disorder that is characterised by excessive daytime sleepiness. Narcolepsy is thought to be an autoimmune disorder that affects roughly 12,000 people in Australia, making it rare.</p>
