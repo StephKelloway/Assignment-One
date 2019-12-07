@@ -15,7 +15,7 @@
 <p>I work for QGC, formerly an Australian company, that is now a wholly owned subsidiary of Shell Australia. I’ve been with QGC for nearly 12 years in various roles across several business units, including Corporate Receptionist, Team Administrator to the Engineering Team & Management Assistant to the Manager Access.</P>
 </body>
 
-<img src="img_steph-ryan-wedding-412.jpg" alt="Steph and Ryan Wedding" width="460" height="345">
+<img src="img_Steph-Ryan-wedding-412.jpg" alt="Steph and Ryan Wedding" width="550" height="500">
 
 
 
