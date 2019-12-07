@@ -1,6 +1,6 @@
 <html>
 <img src="https://user-images.githubusercontent.com/58213527/70367549-b7030b80-18ec-11ea-8297-32e69e961e61.jpg" alt="https://github.com/StephKelloway/images-in-readme" style="width:162.5;height:108.5">
-<img src="https://user-images.githubusercontent.com/58213527/70369143-757c5b80-1900-11ea-8c62-b905192c0d20.JPG"alt="https://github.com/StephKelloway/images-in-readme" style="width:93; height:139.25">
+<img src="https://user-images.githubusercontent.com/58213527/70369143-757c5b80-1900-11ea-8c62-b905192c0d20.JPG" alt="https://github.com/StephKelloway/images-in-readme" style="width:93; height:139.25">
 
 <h1>Stephanie Alexis Kelloway</h1>
 
