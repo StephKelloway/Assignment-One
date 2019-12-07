@@ -15,6 +15,9 @@
 <p>I work for QGC, formerly an Australian company, that is now a wholly owned subsidiary of Shell Australia. I’ve been with QGC for nearly 12 years in various roles across several business units, including Corporate Receptionist, Team Administrator to the Engineering Team & Management Assistant to the Manager Access.</P>
 </body>
 
+<img src="img_https://github.com/StephKelloway/Assignment-One/blob/master/Steph-Ryan-wedding-412.jpg" alt="Ryan and Steph Wedding Powerhouse" width="460" height="345">
+
+
 <h2>What is your interest in IT? When did your interest in IT start? Was there a particular event or person that sparked your interest? Outline your IT experience (if any).</h2>
 <body>
 <p>My IT experience has been, for the most part, gained over the past 2 years through my current role at work. </p>
