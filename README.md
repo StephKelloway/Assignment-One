@@ -10,7 +10,7 @@
 <body> 
 <p>I live in the western suburbs of Brisbane with my husband of 18 months, and our gold sable East German working line German Shepherd named Aris. I have two siblings, a younger brother named Josh who I'm very close to, and an older sister.</p>
  
-<div style="width: 400px; height: 500px; text-align: centre; margin: auto">
+<div style="width: 400px; height: 500px; text-align: centre">
 <img src="https://user-images.githubusercontent.com/58213527/70367549-b7030b80-18ec-11ea-8297-32e69e961e61.jpg" alt="https://github.com/StephKelloway/images-in-readme" style="width:162.5;height:108.5">
 </div style>
 
