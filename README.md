@@ -1,12 +1,13 @@
 <html>
+
+ <img src="https://user-images.githubusercontent.com/58213527/70367549-b7030b80-18ec-11ea-8297-32e69e961e61.jpg" alt="https://github.com/StephKelloway/images-in-readme" style="width:162.5;height:108.5">
+
 <h1>Stephanie Alexis Kelloway</h1>
 
 <ul style="list-style-type:none;">
  <li>Student Number: S3824207</li>
  <li>Email address: s3824207@student.rmit.edu.au</li>
 </ul>
-
-<img src="https://user-images.githubusercontent.com/58213527/70367549-b7030b80-18ec-11ea-8297-32e69e961e61.jpg" alt="https://github.com/StephKelloway/images-in-readme" style="width:162.5;height:108.5">
 
 <h2>Background Information</h2>
 <body> 
