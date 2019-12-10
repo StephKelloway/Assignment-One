@@ -1,8 +1,6 @@
 <html>
 <img src="https://user-images.githubusercontent.com/58213527/70367549-b7030b80-18ec-11ea-8297-32e69e961e61.jpg" alt="https://github.com/StephKelloway/images-in-readme" style="width:186;height:139.5">
  
-<img src="https://user-images.githubusercontent.com/58213527/70369143-757c5b80-1900-11ea-8c62-b905192c0d20.JPG" alt="https://github.com/StephKelloway/images-in-readme" style="width:93; height:139.25">
- 
 <img src="https://user-images.githubusercontent.com/58213527/70369677-e32c8580-1908-11ea-847c-9ca58c928cb7.JPG" alt="https://github.com/StephKelloway/images-in-readme" style="width:186; height:139.5">
  
 <img src="https://user-images.githubusercontent.com/58213527/70369731-8a112180-1909-11ea-9867-c87057459bd7.jpg" alt="https://github.com/StephKelloway/images-in-readme" style="width:186; height:139.5">
