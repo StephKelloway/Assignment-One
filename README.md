@@ -9,8 +9,6 @@
 
 <img src="https://user-images.githubusercontent.com/58213527/70513412-49214300-1b7d-11ea-9030-17fb69d5b0d2.JPG" alt="https://github.com/StephKelloway/images-in-readme" style="width:186; height:139.5">
 
-<img src="https://user-images.githubusercontent.com/58213527/70513424-50485100-1b7d-11ea-9f92-bd0de524f594.JPG"
-alt="https://github.com/StephKelloway/images-in-readme" style="width:186; height:139.5" class="rotateimg180">
 
 <h1>Stephanie Alexis Kelloway</h1>
 
