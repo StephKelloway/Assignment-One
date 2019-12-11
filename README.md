@@ -40,6 +40,7 @@
 <p>Through my studies with RMIT, I hope to build on the skills and knowledge I’ve gained at work by learning about technical IT concepts in more detail.</p>
 <p>My interest in IT lies in the areas of communications and ethics, specifically related to social media, cloud computing & project management.</p>
 </body>
-<body style="background-color:#FF1493;">
+
+<body style="background-color:#FF69B4;">
 </body>
 </html>
