@@ -12,6 +12,7 @@
 <p>I live in the western suburbs of Brisbane with my husband of 18 months, and our gold sable East German working line German Shepherd named Aris. I have two siblings, a younger brother named Josh who I'm very close to, and an older sister.</p>
 </body>
 
+<body>
 <p>My dad was in the Air Force for 21 years, so we moved around when I was growing up. As a result, my sister was born in Malaysia, I was born in South Australia, my brother was born in Victoria, and for the last 26 years, we've lived in Queensland.</p>
 <p>Something I find interesting about myself, and that surprises a lot of people is the fact that I have Narcolepsy. Narcolepsy is a sleep disorder that is characterised by excessive daytime sleepiness. Narcolepsy is thought to be an autoimmune disorder that affects roughly 12,000 people in Australia, making it rare.</p>
 <p>In my spare time I enjoy reading, singing, spending time with my family and friends, walking adventures with my husband and our dog & listening to podcasts.</P>
