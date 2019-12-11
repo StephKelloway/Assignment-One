@@ -41,6 +41,6 @@
 <p>My interest in IT lies in the areas of communications and ethics, specifically related to social media, cloud computing & project management.</p>
 </body>
 
-<body style="background-color:#FF69B4;">
+<body style="background-color:#ff80bf;">
 </body>
 </html>
