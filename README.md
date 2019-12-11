@@ -1,5 +1,5 @@
 <html>
-<body bgcolour="AE0D7A">
+<body bgcolour="pink">
 <h1 style="font-family:calibri;">Stephanie A Kelloway</h1>
 
 <ul style="list-style-type:none;">
