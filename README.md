@@ -13,7 +13,7 @@
 I have two siblings, a younger brother named Josh who I’m super close to, and an older sister. </p>
 
 <img src="https://user-images.githubusercontent.com/58213527/70606518-5d7e4200-1c48-11ea-9510-914957f89cda.JPG" alt="aris">
-
+<br>
 <p>My Dad was in the Air Force for 21 years, so we moved around when I was growing up. As a result of my Dad’s postings, my sister was born in Malaysia, my brother was born in Victoria, I was born in South Australia, and when I was 8 we moved to Queensland.</p>
 <p>In terms of hobbies and interests, I collect brooches, I love reading & musical theatre, and I’m very interested in both domestic & international politics. My husband and I also love to travel, on our most recent trip, we went to the United States for our honeymoon last year where we attended a concert at Opry House in Nashville & toured Graceland in Memphis. I’m also a massive country music fan & Elvis Presley tragic.</p>
 <p>I work for QGC, formerly an Australian owned company that is now a wholly owned subsidiary of Shell Australia. I’ve been with QGC for nearly 12 years in various roles across several business units, including Corporate Receptionist, Team Administrator to the Engineering Team & Management Assistant to the Manager Access.</p>
