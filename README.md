@@ -53,7 +53,6 @@ This strategy coupled with the research & work I complete in my own time I belie
  <li>Creativity Test – Test My Creativity (TestMyCreativity.com) </li>
  </ul>
 <html>
-<head>
 <style>
 * {
   box-sizing: border-box;
