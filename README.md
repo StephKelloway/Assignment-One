@@ -71,7 +71,7 @@ This strategy coupled with the research & work I complete in my own time I belie
   display: table;
 }
 </style>
-</head>
+
 <body>
 
 <div class="row">
