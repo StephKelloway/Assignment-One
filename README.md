@@ -97,5 +97,4 @@ This strategy coupled with the research & work I complete in my own time I belie
 <li>[2] Microsoft Azure 2019, Microsoft Learn Introduction to Azure, Microsoft Corporation, viewed 15 December 2019, https://docs.microsoft.com/en-us/learn/azure/</li>
 </ul>
 <body style="background-color:#ff80bf;">
-</body>
-</html>
+</body></html>
