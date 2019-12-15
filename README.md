@@ -34,7 +34,7 @@ I have two siblings, a younger brother named Josh who I’m super close to, and 
 <p>During my studies with RMIT I hope to build on the skills and knowledge I’ve gained at work, by learning about IT concepts in more detail. I intend to use the skills I learn, and the knowledge I gain through my study to assist in the advancement of my career at Shell.</p>   
 
 <h1 style="font-family:calibri;">Your Ideal Job</h1>
-<p>https://www.seek.com.au/job/40539689?type=standout#searchRequestToken=514bd45e-efea-49bf-9d1c-05f4f702864c</P>
+<p><a href="https://www.seek.com.au/job/40539689?type=standout#searchRequestToken=514bd45e-efea-49bf-9d1c-05f4f702864c">Visit Seek to see the advertisement</a></p>
 <img src="https://user-images.githubusercontent.com/58213527/70859079-8c9ef700-1f59-11ea-9f07-fdd56888d1cf.jpg" alt="Your Ideal Job">
 <h2 style="font-family:calibri;">Role Overview</h>
 
