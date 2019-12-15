@@ -52,7 +52,7 @@ I have two siblings, a younger brother named Josh who I’m super close to, and 
 <p>To obtain the skills, qualifications and experience required for the position described above, I intend to continue with my university studies, focussing on cloud-based computing & project management. I will look for appropriate development opportunities at work where possible, including work-based courses & appropriate work experience within the relevant teams within Shell where possible. 
 This strategy coupled with the research & work I complete in my own time I believe, will allow me to not only be successful in the role of Modern Workplace Consultant described above, but to excel in this role.</p>
 
-<h1 style="font-family:calibri;">Personal Profile</h2>
+<h1 style="font-family:calibri;">Personal Profile</h1>
 <p>As per the assignment outline, I completed a Myers-Briggs Type Indicator test, a learning styles test and for the third test, I completed a creativity test. I’ve included commentary on each of the tests below.</p>
 <ul style="list-style-type:none;">
  <li>Myers-Briggs Type Indicator Test – Jung Personality Test (123Test.com)</li>
