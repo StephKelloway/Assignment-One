@@ -52,23 +52,43 @@ This strategy coupled with the research & work I complete in my own time I belie
  <li>Learning Styles Test – What’s Your Learning Style? (EducationPlanner.org)</li>
  <li>Creativity Test – Test My Creativity (TestMyCreativity.com) </li>
  </ul>
- <div class="row">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+</head>
+<body>
+
+<div class="row">
   <div class="column">
-    <img src="https://user-images.githubusercontent.com/58213527/70859756-35525400-1f64-11ea-8172-a0aa50dd0048.PNG" 
-         alt="MBTI" style="width:30%">
+    <img src="https://user-images.githubusercontent.com/58213527/70859756-35525400-1f64-11ea-8172-a0aa50dd0048.PNG" alt="MBTI" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://user-images.githubusercontent.com/58213527/70859755-33889080-1f64-11ea-90f4-7439e0386cf0.PNG" 
-         alt="Learning Style Test" style="width:30%>
+    <img src="https://user-images.githubusercontent.com/58213527/70859755-33889080-1f64-11ea-90f4-7439e0386cf0.PNG" alt="Learning Style Test" style="width:100%">
   </div>
   <div class="column">
-    <img src="https://user-images.githubusercontent.com/58213527/70859757-384d4480-1f64-11ea-89f3-5fab00b3c080.PNG" 
-         alt="Creativity Test" style="width:30%>
+    <img src="https://user-images.githubusercontent.com/58213527/70859757-384d4480-1f64-11ea-89f3-5fab00b3c080.PNG" alt="Creativity Test" style="width:100%">
   </div>
 </div>
+
 <br>
 <h2 style="font-family:calibri;">What do the results of these tests mean for you?</h2>
 <p>For me, both the MBTI test & the learning style test are highly accurate, both tests confirmed what I already knew. I’m a very visual learner, I need to see read information to retain it or be shown how to do something to carry out a task successfully.  The MBTI test indicates to me that perhaps I’m too modest in some scenarios and could benefit from being a little more confident in terms of my skills and abilities. Based on my recent experience, I would benefit from being more confident in work scenarios so that others don’t take credit for my work and ideas. From the results of the creativity test, I’ve learned that in terms of overall creativity, my score is below the typical score. The results also indicate to me that I’m able to make connections between things that don’t appear to a connection at first glance. Although I’ve scored outside of the norm for the persistence metric, to me this suggests that I keep looking for solutions even though good ones have already been identified. This could be problematic as I may be spending time working on problems that already have solutions, and therefore wasting my time, and that of potential team members.</p>
+
 <h2 style="font-family:calibri;">How do you think these results may influence your behaviour in a team?</h2>
 <p>Based on my test results, I intend to work on being more assertive when I’m working in a team, specifically I will speak up more so that my ideas and opinions are heard. I will also work on taking ownership of my ideas so that I am given the credit I deserve for my contributions. I realise that I have a talent for ensuring things run smoothly so I will continue to use this to my advantage and that for the benefit of my entire team. I will also make it known to my team members that I am a visual learner and therefore, to understand a task and complete it properly, I really need to be shown how to complete a task, rather than simply talking about it. I will also work to ensure that once I’ve completed a task, I won’t second guess myself and look for better solutions when good solutions have already been identified.</p>
 <h2 style="font-family:calibri;">How should you take this into account when forming a team?</h2>
