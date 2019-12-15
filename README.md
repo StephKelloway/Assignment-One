@@ -55,15 +55,15 @@ This strategy coupled with the research & work I complete in my own time I belie
  <div class="row">
   <div class="column">
     <img src="https://user-images.githubusercontent.com/58213527/70859756-35525400-1f64-11ea-8172-a0aa50dd0048.PNG" 
-         alt="MBTI" style="width:33.3%">
+         alt="MBTI" style="width:30%">
   </div>
   <div class="column">
     <img src="https://user-images.githubusercontent.com/58213527/70859755-33889080-1f64-11ea-90f4-7439e0386cf0.PNG" 
-         alt="Learning Style Test" style="width:33.3%>
+         alt="Learning Style Test" style="width:30%>
   </div>
   <div class="column">
     <img src="https://user-images.githubusercontent.com/58213527/70859757-384d4480-1f64-11ea-89f3-5fab00b3c080.PNG" 
-         alt="Creativity Test" style="width:33.3%>
+         alt="Creativity Test" style="width:30%>
   </div>
 </div>
 <h2 style="font-family:calibri;">What do the results of these tests mean for you?</h2>
