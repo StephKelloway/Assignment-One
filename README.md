@@ -52,6 +52,8 @@ This strategy coupled with the research & work I complete in my own time I belie
  <li>Learning Styles Test – What’s Your Learning Style? (EducationPlanner.org)</li>
  <li>Creativity Test – Test My Creativity (TestMyCreativity.com) </li>
  </ul>
+<html>
+<head>
 <style>
 * {
   box-sizing: border-box;
@@ -84,6 +86,9 @@ This strategy coupled with the research & work I complete in my own time I belie
     <img src="https://user-images.githubusercontent.com/58213527/70859757-384d4480-1f64-11ea-89f3-5fab00b3c080.PNG" alt="Creativity Test" style="width:100%">
   </div>
 </div>
+
+</body>
+</html>
 
 <br>
 <h2 style="font-family:calibri;">What do the results of these tests mean for you?</h2>
