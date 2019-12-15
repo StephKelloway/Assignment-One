@@ -66,6 +66,7 @@ This strategy coupled with the research & work I complete in my own time I belie
          alt="Creativity Test" style="width:30%>
   </div>
 </div>
+<br>
 <h2 style="font-family:calibri;">What do the results of these tests mean for you?</h2>
 <p>For me, both the MBTI test & the learning style test are highly accurate, both tests confirmed what I already knew. I’m a very visual learner, I need to see read information to retain it or be shown how to do something to carry out a task successfully.  The MBTI test indicates to me that perhaps I’m too modest in some scenarios and could benefit from being a little more confident in terms of my skills and abilities. Based on my recent experience, I would benefit from being more confident in work scenarios so that others don’t take credit for my work and ideas. From the results of the creativity test, I’ve learned that in terms of overall creativity, my score is below the typical score. The results also indicate to me that I’m able to make connections between things that don’t appear to a connection at first glance. Although I’ve scored outside of the norm for the persistence metric, to me this suggests that I keep looking for solutions even though good ones have already been identified. This could be problematic as I may be spending time working on problems that already have solutions, and therefore wasting my time, and that of potential team members.</p>
 <h2 style="font-family:calibri;">How do you think these results may influence your behaviour in a team?</h2>
