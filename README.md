@@ -26,11 +26,9 @@ I have two siblings, a younger brother named Josh who I’m super close to, and 
 <p>I’m still figuring out exactly which direction I’d like to go with my career in IT, but my interest lies in the areas of cloud computing, web design, communication & ethics.</p>
 
 <h2 style="font-family:calibri;">Why did you choose to come to RMIT?</h2>
-
 <p>I decided to study through OUA & RMIT, because of the flexibility that online learning affords me, given I work fulltime and have other additional responsibilities to manage.</p>
 
 <h2 style="font-family:calibri;">What do you expect to learn during your studies?</h2>
-
 <p>During my studies with RMIT I hope to build on the skills and knowledge I’ve gained at work, by learning about IT concepts in more detail. I intend to use the skills I learn, and the knowledge I gain through my study to assist in the advancement of my career at Shell.</p>   
 
 <h1 style="font-family:calibri;">Your Ideal Job</h1>
